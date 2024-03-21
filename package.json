@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "save": "^2.9.0",
+    "tilt.js": "^1.2.1"
+  }
+}

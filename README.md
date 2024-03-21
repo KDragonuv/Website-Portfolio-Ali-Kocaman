@@ -25,6 +25,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Technologies Used
 
 [Cloudflare] cdnjs.cloudflare.com
-[Bootstrap] https://getbootstrap.com/docs/versions/ 
+[JumbotronBootstrap] https://getbootstrap.com/docs/versions/ 
 [AOS] https://michalsnik.github.io/aos/
 [Tilt.js] https://github.com/gijsroge/tilt.js/ 
